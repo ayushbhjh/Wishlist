@@ -1,0 +1,21 @@
+.user{
+  width: 90%;
+  height: 40px;
+  position: absolute;
+  margin-top: 3%;
+  margin-left: 3%;
+  align-items: center;
+  font-size: 20px;
+}
+
+.inpt{
+  position: absolute;
+  width: 20%;
+  height: 30px;
+}
+#btn{
+  height: 40px;
+  width: 60px;
+ margin-left: 6.5rem;
+ border: 2px solid black;
+}
