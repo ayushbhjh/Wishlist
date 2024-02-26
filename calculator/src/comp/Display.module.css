@@ -1,0 +1,10 @@
+.display{
+  font-size: 50px;
+  width: 90%;
+  /* margin-left: 4%; */
+  margin: 10px;
+  margin-left: 4.5%;
+  box-shadow: 0px 0px 3px black;
+  border-radius: 10px;
+  background-image: linear-gradient(rgba(203, 243, 147, 0.363),blue);
+}

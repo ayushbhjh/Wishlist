@@ -1,0 +1,12 @@
+.btn1{
+  width: 25%;
+  font-size: 40px;
+  border-radius: 10px;
+}
+.clearbtn{
+  width: 75%;
+  font-size: 50px;
+}
+.btn1:hover,.clearbtn:hover{
+  background-image: linear-gradient(red,pink);
+}
